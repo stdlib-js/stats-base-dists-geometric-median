@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dists-geometric-median",
-  "version": "0.0.0",
+  "version": "0.0.6",
   "description": "Geometric distribution median.",
   "license": "Apache-2.0",
   "author": {
