@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-13)
+## Unreleased (2026-10-12)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`39d1052`](https://github.com/stdlib-js/stdlib/commit/39d1052bee15c88022006fbb4bf09e51f66516f4) - **test:** migrate `stats/base/dists/geometric/median` to ULP-based assertions [(#16085)](https://github.com/stdlib-js/stdlib/pull/16085) _(by Athan Reines)_
 -   [`ca49ceb`](https://github.com/stdlib-js/stdlib/commit/ca49ceb1e17979e0ecb77bc50dedd14b7515b46f) - **refactor:** rename internal variable [(#13167)](https://github.com/stdlib-js/stdlib/pull/13167) _(by Philipp Burckhardt)_
 -   [`45e5fab`](https://github.com/stdlib-js/stdlib/commit/45e5fabec7c1617c1aa88cc757ade2f799221a38) - **bench:** refactor to use string interpolation in `stats/base/dists/geometric` [(#10361)](https://github.com/stdlib-js/stdlib/pull/10361) _(by Vishal Gaikwad, Athan Reines)_
 -   [`f38e8a7`](https://github.com/stdlib-js/stdlib/commit/f38e8a7b433e0e9888eb57c83f4374073089ad85) - **docs:** clean-up parameters in Julia fixtures scripts _(by Philipp Burckhardt)_
